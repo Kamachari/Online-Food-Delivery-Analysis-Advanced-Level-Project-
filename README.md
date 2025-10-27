@@ -66,7 +66,7 @@ It showcases my ability to handle **end-to-end analytics projects** — from raw
 ---
 
 ## 🔗 Connect
-👤 **Your Name**  
-📧 Email: yourmail@example.com  
-🌐 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-📂 GitHub: [Your GitHub Profile](https://github.com/your-profile)
+👤 **Buragapalli Kamachari**  
+📧 Email: kamacharivarrier@gmail.com
+🌐 LinkedIn: https://www.linkedin.com/in/buragapalli-kamachari-931624269/  
+📂 GitHub: github.com/kamachari
